@@ -64,6 +64,12 @@
       "q2": "zxzx",
       "radio3": "Easy",
       "id": 6
+    },
+    {
+      "radio1": "JavaScript",
+      "q2": "zxzx",
+      "radio3": "Normal",
+      "id": 7
     }
   ]
 }
