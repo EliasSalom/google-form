@@ -24,6 +24,7 @@ json-server --watch data/db.json --port 8000
 ```
 1. the port flag is to give the ```json-server``` a new port 8000
 2. because the react will use the defolt port 3000
+3. you will find the data inside **data/db.json**
 
 > Second open and new terminal in the VScode on the + icon and run 
 ```sh
