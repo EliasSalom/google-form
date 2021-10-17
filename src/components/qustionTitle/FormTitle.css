@@ -1,0 +1,14 @@
+.form-title{
+    text-align: left;
+    border-top: rgb(81 189 212) 10px solid;
+    border-radius: 8px;
+    background-color: white;
+    padding: 2% 3%;
+}
+.form-title h1{
+    margin-top: 0%;
+    
+}
+.requred{
+    color: red;
+}

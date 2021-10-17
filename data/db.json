@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What language is your favorite?",
+      "type": "choice",
+      "requre": true,
+      "answares": [
+        "JavaScript",
+        "TypeScript",
+        "CoffeeScript"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "what do you like about programing?",
+      "type": "text",
+      "requre": false
+    },
+    {
+      "id": 3,
+      "question": "What language is your favorite?",
+      "type": "choice",
+      "requre": true,
+      "answares": [
+        "Easy",
+        "Normal",
+        "Hard"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "id": 1,
+      "q1": "some comment",
+      "q2": 1
+    },
+    {
+      "radio1": "JavaScript",
+      "q2": "dasdas",
+      "radio3": "Easy",
+      "id": 2
+    },
+    {
+      "radio1": "JavaScript",
+      "q2": "dasdas",
+      "radio3": "Easy",
+      "id": 3
+    },
+    {
+      "radio1": "JavaScript",
+      "q2": "dasdas",
+      "radio3": "Easy",
+      "id": 4
+    },
+    {
+      "radio1": "JavaScript",
+      "q2": "dfsdfs",
+      "radio3": "Easy",
+      "id": 5
+    },
+    {
+      "radio1": "TypeScript",
+      "q2": "zxzx",
+      "radio3": "Easy",
+      "id": 6
+    }
+  ]
+}

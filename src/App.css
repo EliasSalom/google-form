@@ -1,12 +1,22 @@
 .App {
-  text-align: center;
+  margin: 4% 6%;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
+.submit-button{
+  background-color: rgb(81 189 212);
+  border: none;
+  border-radius: 5px;
+  color: white;
+  margin: 1% 0%;
+  padding: 1% 2%;
+}
+.submit-right{
+  text-align: right;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
